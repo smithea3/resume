@@ -1,0 +1,221 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Ethan Smith",
+    "label": "Passionate Mathematician and Technologist",
+    "image": "",
+    "email": "smithea3@outlook.com",
+    "phone": "",
+    "url": "",
+    "summary": "I hold a B.S. in Mathematics (North Carolina Central University), an M.A. in Mathematics (Appalachian State University), and an M.Ed. in Instructional Design (Western Governors University). Currently pursuing a Ph.D. in Leadership (Mathematics concentration, University of the Cumberlands). I'm not only dedicated to helping others but also passionate about continuous learning, whether it's coding, advanced math, or music. This enthusiasm fuels my drive to contribute to organizational goals with a positive, energetic approach, fostering progress and aiding in moving initiatives forward.",
+    "location": {
+      "countryCode": "US",
+      "address": "United States"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "smithea3",
+        "url": "https://www.linkedin.com/in/smithea3/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "GEX, Incorporated",
+      "position": "Subject Matter Expert — Mathematics",
+      "startDate": "2023-03-31",
+      "endDate": "",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/gex-incorporated/"
+    },
+    {
+      "name": "Mitchell Community College",
+      "position": "Mathematics Instructor",
+      "startDate": "2022-07-31",
+      "endDate": "",
+      "highlights": [],
+      "url": "https://www.linkedin.com/school/mitchell-community-college/",
+      "location": "Statesville, North Carolina, United States"
+    },
+    {
+      "name": "Catawba Valley Community College",
+      "position": "Educational Technology Specialist and Quality Matters Coordinator",
+      "startDate": "2019-08-31",
+      "endDate": "2022-07-31",
+      "highlights": [],
+      "url": "https://www.linkedin.com/school/catawba-valley-community-college/",
+      "location": "Hickory, NC"
+    },
+    {
+      "name": "Catawba Valley Community College",
+      "position": "Mathematics Instructor",
+      "startDate": "2016-08-31",
+      "endDate": "2022-01-31",
+      "highlights": [],
+      "url": "https://www.linkedin.com/school/catawba-valley-community-college/",
+      "location": "Hickory, NC"
+    },
+    {
+      "name": "Charlotte-Mecklenburg Schools",
+      "position": "Mathematics Teacher",
+      "startDate": "2014-08-31",
+      "endDate": "2016-07-31",
+      "highlights": [],
+      "url": "https://www.linkedin.com/school/charmeckschools/"
+    },
+    {
+      "name": "Appalachian State University",
+      "position": "WeBWorKs Consultant and Website Moderator",
+      "startDate": "2014-01-31",
+      "endDate": "2014-05-31",
+      "highlights": [],
+      "url": "https://www.linkedin.com/school/appalachian-state-university/"
+    },
+    {
+      "name": "Appalachian State University",
+      "position": "Graduate Teaching Assistant",
+      "startDate": "2012-08-31",
+      "endDate": "2013-12-31",
+      "highlights": [],
+      "url": "https://www.linkedin.com/school/appalachian-state-university/"
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of the Cumberlands",
+      "area": "Leadership",
+      "studyType": "Doctorate of Philosophy",
+      "startDate": "2021-11-30",
+      "endDate": "2025-05-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Western Governors University",
+      "area": "Instructional Design",
+      "studyType": "Master of Education - MEd",
+      "startDate": "2019-12-31",
+      "endDate": "2020-10-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Appalachian State University",
+      "area": "Mathematics",
+      "studyType": "Master's of Arts",
+      "startDate": "2012-12-31",
+      "endDate": "2014-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "North Carolina Central University",
+      "area": "Mathematics",
+      "studyType": "Bachelor's of Science",
+      "startDate": "2008-12-31",
+      "endDate": "2012-12-31",
+      "score": "",
+      "courses": []
+    }
+    
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "The Non-Technical Skills of Effective Data Scientists",
+      "issuer": "LinkedIn",
+      "startDate": "2022-02-28",
+      "url": "https://www.linkedin.com/learning/certificates/152b2603e60d1c2ce3ea570d2610b043ff3d425bd6e13719ebaf1eac5c1dd9fe"
+    },
+    {
+      "name": "Learning Excel: Data Analysis",
+      "issuer": "LinkedIn",
+      "startDate": "2022-02-28",
+      "url": "https://www.linkedin.com/learning/certificates/37f7fe450fc507825f2f35684a86132259f001162a2f389c76a0669aee23d769"
+    },
+    {
+      "name": "Google Data Analytics Professional Certificate",
+      "issuer": "Coursera",
+      "startDate": "2022-02-28",
+      "url": "https://www.credly.com/badges/29008107-bb9b-4acc-b759-432daaccba89?source=linked_in_profile"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Microsoft Word",
+      "level": "Advanced",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Excel",
+      "level": "Advanced",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft PowerPoint",
+      "level": "Advanced",
+      "keywords": []
+    },
+    {
+      "name": "Data Analysis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Organization Skills",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Learning Management Systems Administration",
+      "level": "Intermediate",
+      "keywords": ["Blackboard, Moodle, Canvas"]
+    },
+    {
+      "name": "R",
+      "level": "Intermediate",
+      "keywords": []
+    },
+    {
+      "name": "Maple",
+      "level": "Intermediate",
+      "keywords": []
+    },
+    {
+      "name": "Matlab",
+      "level": "Intermediate",
+      "keywords": []
+    },
+    {
+      "name": "Interpersonal Skills",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "LaTeX",
+      "level": "Advanced",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Intermediate Reading Fluency, Basic Speaking Fluency"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json",
+    "theme": "elegant"
+  }
+}
